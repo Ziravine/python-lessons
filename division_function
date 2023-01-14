@@ -1,0 +1,9 @@
+def calculator(a, b):
+    division = a/b
+    # return the divisi
+    return division
+
+
+# call function
+ans = calculator(2, 5)
+print("division", ans)
